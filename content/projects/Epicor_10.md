@@ -1,10 +1,9 @@
 ---
 project: 'Epicor ERP'
-months: '3'
-title: 'Leading Enterprise Resource Planning (ERP) implementation software systems specialist in South Africa'
+months: '6'
+title: 'One of the Leading provider of products for the eye care specialist in UK'
 Role: 'Epicor Technical Consultant'
-TeamStrength: '6'
+TeamStrength: '2'
 PlatformSkills:
-  - Financial Integration using Service Connect
+  - Automation, Customization, Dashboard, BAQ, SSRS reports.
 ---
-

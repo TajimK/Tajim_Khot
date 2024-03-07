@@ -1,13 +1,11 @@
 ---
 project: 'iScala ERP'
-months: '6'
-title: 'One of the Fortune 100 Pharmaceuticals company'
+months: '4'
+title: 'Electric Supply Company in Tanzania'
 Role: 'Epicor Technical Consultant'
 TeamStrength: '15'
 PlatformSkills:
 
-  - VBA Upgrade
-  - Reports
-  - Database Scripting
+  - Data Cleansing, Data Upgrade, VBA Upgrade, Report Server, System Integration using Service Connect, BI
+Reports. 
 ---
-

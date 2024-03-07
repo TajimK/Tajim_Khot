@@ -1,9 +1,9 @@
 ---
-date: '2022-10-01'
+date: '2019-08-01'
 title: 'Epicor Technical Consultant'
 company: 'Epicor Freelance'
 location: 'Mumbai, India'
-range: 'October 2022 - Present'
+range: 'Augest 2019 - Present'
 url: 'https://www.epicor.com/en-in/'
 ---
 

@@ -1,12 +1,10 @@
 ---
 project: 'Epicor ERP'
-months: '2'
-title: 'Car distributors in Dubai'
+months: '12'
+title: 'One of the largest sign board building company in united states'
 Role: 'Epicor Technical Consultant'
-TeamStrength: '4'
+TeamStrength: '5'
 showInProjects: false
 PlatformSkills:
-  - Financial Module Integration Using Service Connect
-  - SQL scripts
+  - Automation, Customization, Dashboard, BAQ, SSRS reports
 ---
-

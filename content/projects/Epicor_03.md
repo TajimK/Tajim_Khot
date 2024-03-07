@@ -1,10 +1,9 @@
 ---
 project: 'Epicor ERP'
 months: '3'
-title: 'One of the largest construction Company in Dubai'
-Role: 'Epicor Technical Consultant'
-TeamStrength: '12'
+title: 'One of the world's leading manufacturers of hot runner systems in Europe'
+Role: 'Developer'
+TeamStrength: '5'
 PlatformSkills:
-  - Developed Business Reports using SSRS and Integration using Service Connect
+  - Upgrade from E9 to E10 components like BPM, Customization, BAQ.
 ---
-

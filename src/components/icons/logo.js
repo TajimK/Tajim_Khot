@@ -1,7 +1,7 @@
 import React from 'react';
 
 const IconLogo = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
+  /*<svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
     <title>Logo</title>
     <g transform="translate(-8.000000, -2.000000)">
       <g>
@@ -28,6 +28,17 @@ const IconLogo = () => (
         />
       </g>
     </g>
+  </svg>*/
+  <svg xmlns="http://www.w3.org/2000/svg" width="65" height="59" version="1.2" viewBox="0 0 65 59">
+    <defs>
+      <image
+        id="img1"
+        width="65"
+        height="59"
+        href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAA7BAMAAADWYPrRAAAAAXNSR0IB2cksfwAAABtQTFRF9vT0/3UX1drb8O/v4OLj0NbX9+HT/HYa+rWG6GhJAwAAANtJREFUeJzV1VEOwiAMBuA2JouPoNl99CZewRt4dKFjGWtLfx6Vh5nMj9KV0RH968gJgQwIF5EBuIWkRtguEZCfQSqXffKQHNEHD9Qv76ZynueQpwpsiEnO3LCpaeLkzlCQEbJpJTRnWTUQ9U+GQrKMhISwoq1OIhIQWz0DwVC0aobCr1gnEhQ4BswDPwuuR3uf4qqjfSEs2N39s/DeoDK4XnkV9tJCH7FFx3jbU2iPVNYgPpafAh4UkKvbQXoy6ELHPNimCri7YCewXUZgoidP9PWJb8PE9+WHxxeS2Bq7Sy/kXwAAAABJRU5ErkJggg=="></image>
+    </defs>
+    <style></style>
+    <use id="Background" x="0" y="0" href="#img1"></use>
   </svg>
 );
 

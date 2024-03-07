@@ -46,7 +46,6 @@ const StyledText = styled.div`
   }
 `;
 
-
 const StyledPic = styled.div`
   position: relative;
   max-width: 300px;
@@ -134,7 +133,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C# and VB.NET'
+  /* const skills = ['C# and VB.NET'
                   , 'Progress 4GL(ABL)'
                   , 'JavaScript and HTML & (S)CSS'
                   , 'Epicor 9/10 ERP'
@@ -153,7 +152,7 @@ const About = () => {
                       , 'Material Management'
                       , 'Service Management'
                       , 'Job Management'
-                      , 'Payroll'];
+                      , 'Payroll'];*/
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -162,36 +161,30 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Dnyanraj, a software engineer based in Mumbai, India.</p>
-
-
+            <p>Hello! I'm Tajim, a software engineer based in Mumbai, India.</p>
 
             <p>
-My career in the ERP and related software industry has been marked by a dedication to 
-delivering exceptional service and providing tailored solutions to clients. 
-With a Master of Computer Applications (MCA) and Executive PG Programme in Software Development Full Stack from iiiT Bangalore, 
-I have acquired a strong educational foundation that has been augmented by over 11+ years of professional experience.
-
-
+              My career in the ERP and related software industry has been marked by a dedication to
+              delivering exceptional service and providing tailored solutions to clients. With a
+              B.Eng. Computer Engineering. I bring over 8 years of dedicated experience in the ERP
+              and software industry. As a seasoned Epicor Technical Consultant, my expertise
+              revolves around Kinetic Epicor ERP (Epicor 9/10) and iScala ERP solutions.
             </p>
 
-                        <p>
-
-Throughout my career, I have focused on honing my expertise in <a href="https://www.epicor.com/">Epicor ERP</a> and <a href="https://www.epicor.com/en/erp-systems/iscala/">iScala</a>. These systems have been the centerpiece of my work, and I have gained extensive knowledge in 
-various aspects such as Customizations, System Integration, Service Connect, Implementations, Upgrades, SSRS Reports, 
-Crystal Reports, Custom development, Technical consulting, and support.
-
+            <p>
+              Throughout my career, I have focused on honing my expertise in{' '}
+              <a href="https://www.epicor.com/">Epicor ERP</a> and{' '}
+              <a href="https://www.epicor.com/en/erp-systems/iscala/">iScala</a>. These systems have
+              been the centerpiece of my work, and I have gained extensive knowledge in various
+              aspects such as Customizations, System Integration, Service Connect, Implementations,
+              Upgrades, SSRS Reports, Crystal Reports, Custom development, Technical consulting, and
+              support.
             </p>
-
-
           </div>
 
+          <div></div>
 
-<div>
-
-</div>
-          
-         {/* <br></br>
+          {/* <br></br>
           <div className="inner">
             
             <p>ERP Modules:
@@ -210,8 +203,6 @@ Crystal Reports, Custom development, Technical consulting, and support.
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
   </ul>*/}
-
-
         </StyledText>
 
         <StyledPic>

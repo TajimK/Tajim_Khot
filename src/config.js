@@ -1,28 +1,73 @@
 module.exports = {
-  email: 'D' + 'n' + 'y' + 'a' + 'n' + 'r' + 'a' + 'j' + '@' + 'D' + 'n' + 'y' + 'a' + 'n' + 'r' + 'a' + 'j.' + 'c' + 'o' + 'm',
+  email:
+    'T' +
+    'a' +
+    'j' +
+    'i' +
+    'm' +
+    'k' +
+    'h' +
+    'o' +
+    't' +
+    '@' +
+    'T' +
+    'a' +
+    'j' +
+    'i' +
+    'm' +
+    'k' +
+    'h' +
+    'o' +
+    't.' +
+    'c' +
+    'o' +
+    'm',
 
-  emailRequestResume: 'D' + 'n' + 'y' + 'a' + 'n' + 'r' + 'a' + 'j' + '@' + 'D' + 'n' + 'y' + 'a' + 'n' + 'r' + 'a' + 'j.' + 'c' + 'o' + 'm' + '?subject=Request for Dnyanraj resume',
+  emailRequestResume:
+    'T' +
+    'a' +
+    'j' +
+    'i' +
+    'm' +
+    'k' +
+    'h' +
+    'o' +
+    't' +
+    '@' +
+    'T' +
+    'a' +
+    'j' +
+    'i' +
+    'm' +
+    'k' +
+    'h' +
+    'o' +
+    't.' +
+    'c' +
+    'o' +
+    'm' +
+    '?subject=Request for Tajim resume',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/DnyanrajPatil',
+      url: 'https://github.com/TajimKhot',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/DnyanrajPatil__/',
+      url: 'https://www.instagram.com/TajimKhot__/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Dnyanrajpatil_',
+      url: 'https://twitter.com/TajimKhot_',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/dnyanrajpatil/',
+      url: 'https://www.linkedin.com/in/TajimKhot/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/dnyanrajpatil',
+      url: 'https://codepen.io/TajimKhot',
     },
   ],
 
@@ -35,7 +80,7 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-        {
+    {
       name: 'Certifications',
       url: '/#certifications',
     },

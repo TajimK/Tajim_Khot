@@ -1,11 +1,9 @@
 ---
 project: 'iScala ERP'
-months: '3'
-title: 'American international corporation whose principal business is selling gases and chemicals for industrial uses in Dubai'
+months: '6'
+title: 'One of the Fortune 100 Pharmaceuticals company'
 Role: 'Epicor Technical Consultant'
-TeamStrength: '8'
+TeamStrength: '15'
 PlatformSkills:
-  - System Integration using Service Connect for CRM
-  - SCM
+  - Crystal reports, VBA Upgrade
 ---
-

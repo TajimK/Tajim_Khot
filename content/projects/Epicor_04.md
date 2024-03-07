@@ -1,13 +1,9 @@
 ---
 project: 'Epicor ERP'
-months: '6'
-title: 'Largest tea plantation companies in Kenya'
+months: '3'
+title: 'Design and Manufacturing interior textile Company in UK'
 Role: 'Epicor Technical Consultant'
-TeamStrength: '20'
+TeamStrength: '8'
 PlatformSkills:
-  - System integration using Service Connect
-  - BPM
-  - Customizations using C#
-  - BAQ
+  - Customization using C#, Dashboard, BAQ, BPM
 ---
-

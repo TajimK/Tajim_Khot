@@ -1,15 +1,17 @@
 ---
 date: '2012-07-24'
-title: 'Senior Technical Consultant'
+title: 'Technical Consultant'
 company: 'mSofTek Solutions'
 location: 'Mumbai, India'
-range: 'July 2012 - October 2020'
+range: 'February 2015 - Jun 2019'
 url: 'https://msoftek.com/'
 ---
 
-- I am worked as a technical consultant over more than 8 Years of experience.
-- Provided quality solution for more than 20 ERP’s projects and well experienced in implementing
-- solution for Epicor and iScala ERP’s in Kenya, Oman, US, South Africa, Tanzania, UAE, UK, Norway
-- Worked on upgrading/creating reports on SSRS for multiple clients
-- Involved in Data Upgrade, VBA, and Service Connect Upgrade of iScala ERP Projects
-
+- Communicating with clients to determine business requirement and managing client expectations.
+- Creating and managing the project estimate, project plan, project schedule and expense to ensure that the targets were
+  reached.
+- Following the project life cycle methodology like Agile and Waterfall; defined under the process framework; ensure that
+  customer deadlines were met within project budgets.
+- Worked at client side for better understanding of business processes and providing solution based on user’s usability,
+  Managed client expectation.
+- Worked on more than 15 overseas projects which were located in UAE, South Africa, UK, Tanzania, Europe, etc.

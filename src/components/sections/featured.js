@@ -227,7 +227,6 @@ const StyledProject = styled.div`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        background-color: var(--navy);
         mix-blend-mode: screen;
       }
     }
@@ -251,9 +250,10 @@ const Featured = () => {
   const data = useStaticQuery(graphql`
     query {
       featured: allMarkdownRemark(
-        filter: { fileAbsolutePath: { regex: "/featured/" } 
-      frontmatter: { showInProjects: { ne: false } }
-    }
+        filter: {
+          fileAbsolutePath: { regex: "/featured/" }
+          frontmatter: { showInProjects: { ne: false } }
+        }
         sort: { fields: [frontmatter___date], order: DESC }
       ) {
         edges {
@@ -262,7 +262,7 @@ const Featured = () => {
               title
               cover {
                 childImageSharp {
-                  fluid(maxWidth: 2500,quality: 100, traceSVG: { color: "#64ffda" }) {
+                  fluid(maxWidth: 2500, quality: 100, traceSVG: { color: "#64ffda" }) {
                     ...GatsbyImageSharpFluid_withWebp_tracedSVG
                   }
                 }

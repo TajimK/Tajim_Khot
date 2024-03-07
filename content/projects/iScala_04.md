@@ -1,11 +1,9 @@
 ---
 project: 'iScala ERP'
 months: '2'
-title: 'Petroleum Company in Norway'
+title: 'One of the largest home appliance company in South Africa'
 Role: 'Epicor Technical Consultant'
 TeamStrength: '4'
 PlatformSkills:
-  - System Integration using Service Connect for iScala Payroll
-  - HCM
+  - Technical training on service connect, Requirement gathering, Service connect
 ---
-

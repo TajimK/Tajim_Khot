@@ -1,12 +1,10 @@
 ---
 project: 'Epicor ERP'
 months: '3'
-title: 'Internationally recognized as a supplier of premium-quality sheetfed and reel-fed labels for market leaders across various industry sectors in South Africa'
-Role: 'Epicor Technical Consultant'
-TeamStrength: '6'
+title: 'Digital solutions specialist for physical retail in France'
+Role: 'Developer'
+TeamStrength: '3'
 PlatformSkills:
-  - Customization using C#
-  - BAQ
-  - Dashboard
----
+Customization using VB.Net and C#, Dashboards.
 
+---

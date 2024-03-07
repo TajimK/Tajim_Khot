@@ -1,10 +1,9 @@
 ---
 project: 'Epicor ERP'
-months: '4'
-title: 'One of the largest and most diversified companies in Engineering and Trade in the Sultanate in Oman'
+months: '6'
+title: 'One of the largest construction Company in UAE'
 Role: 'Epicor Technical Consultant'
-TeamStrength: '6'
+TeamStrength: '5'
 PlatformSkills:
-  - Financial Integration using Service Connect
+  - Developed Business Reports using SSRS.
 ---
-

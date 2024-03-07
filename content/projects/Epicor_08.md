@@ -1,13 +1,10 @@
 ---
 project: 'Epicor ERP'
-months: '4'
-title: 'Organization oversees port operations in Tanzania '
+months: '6'
+title: 'One of the largest assemblers and distributors of personal computers in South Africa '
 Role: 'Epicor Technical Consultant'
-TeamStrength: '8'
+TeamStrength: '5'
 showInProjects: false
 PlatformSkills:
-  - Customization using VB.Net
-  - Financial system integration using Service Connect
-  
+  - Automation, Customization, Dashboard, Service connect, BAQ.
 ---
-

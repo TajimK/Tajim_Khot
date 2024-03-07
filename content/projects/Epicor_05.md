@@ -1,12 +1,9 @@
 ---
 project: 'Epicor ERP'
-months: '6'
-title: 'Digital solutions specialist for physical retail in France'
-Role: 'Developer'
-TeamStrength: '3'
+months: '5'
+title: 'Manufacturer and distribution of steel and wire Company in South Africa'
+Role: 'Epicor Technical Consultant'
+TeamStrength: '4'
 PlatformSkills:
-  - Deployment of developments
-  - Customization
-  - Dashboards
+  - Customization using C#, Dashboard, BAQ, BI, BPM.
 ---
-
