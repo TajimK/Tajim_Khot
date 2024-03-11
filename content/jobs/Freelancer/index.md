@@ -13,4 +13,4 @@ url: 'https://www.epicor.com/en-in/'
 
 - A specialist in Customization, Advanced Dashboards, BPMs, Rest APIs, Epicor functions, BAQ, BAQ reports, Service Connect, and DMT for Kinetic Epicor and Epicor 9/10 ERP.
 
-- Developed integrations between Epicor and other core business systems; specialised in Epicor Service connect
+- Developed integrations between Epicor and other core business systems; specialised in Epicor Service connect.
